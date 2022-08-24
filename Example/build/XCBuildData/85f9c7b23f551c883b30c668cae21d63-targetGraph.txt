@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ValidationLib in Pods, no dependencies
+Pods-ValidationLib_Example in Pods, depends on:
+ValidationLib in Pods (explicit)
+Pods-ValidationLib_Tests in Pods, depends on:
+Pods-ValidationLib_Example in Pods (explicit)

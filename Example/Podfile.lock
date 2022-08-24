@@ -1,0 +1,16 @@
+PODS:
+  - ValidationLib (0.1.0)
+
+DEPENDENCIES:
+  - ValidationLib (from `../`)
+
+EXTERNAL SOURCES:
+  ValidationLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ValidationLib: dc88fcd359a1311f13f2f0073cc55a75125c8135
+
+PODFILE CHECKSUM: 42282bc04131474661872fdafb5e1eebf0a282cb
+
+COCOAPODS: 1.10.2

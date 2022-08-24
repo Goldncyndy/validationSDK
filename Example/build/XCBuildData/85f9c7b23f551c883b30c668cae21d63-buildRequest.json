@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98258f1de5ef91c3fc85234f6df57e11ca"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985d7fbbb23cf81473d9da49a423456241"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98def56c97be7fe8dd3d101b25d1ca78de"
+    }
+  ],
+  "containerPath" : "/Users/decagon/Desktop/Libraries/validationSDK/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/decagon/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/decagon/Library/Developer/Xcode/DerivedData/Pods-emikgomtsyjgqrfdbmlzttlpshmx/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/decagon/Library/Developer/Xcode/DerivedData/Pods-emikgomtsyjgqrfdbmlzttlpshmx/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
